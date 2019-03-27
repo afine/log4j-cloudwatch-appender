@@ -154,7 +154,6 @@
                         </goals>
                         <configuration>
                             <createDependencyReducedPom>false</createDependencyReducedPom>
-                            <minimizeJar>true</minimizeJar>
                             <finalName>log4j-cloudwatch-appender-shaded</finalName>
                             <relocations>
                                 <relocation>
